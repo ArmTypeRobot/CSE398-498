@@ -26,6 +26,7 @@ Prerequisites: Basic programming ability (e.g., CSE 007 or CSE 012) and permissi
 
 <b> Textbook: </b> <i>Modern Robotics</i> by Kevin Lynch and Frank Park
   <p style="margin-left: 40px">(free online version http://hades.mech.northwestern.edu/images/2/25/MR-v2.pdf).<br>
+  [Mockup Lecture](https://github.com/jctrinkle/ArmTypeRobots/blob/main/Presentation1.pptx)
 <b> Simulation tool: </b> CoppeliaSim.  Below are two animations made with CopelliaSim
 <ul>
   <li> http://hades.mech.northwestern.edu/images/d/dc/UR5-IK-720p.mov </li>
