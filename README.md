@@ -1,3 +1,10 @@
+<h2>Slides</h2>
+<br>
+: [Mockup Lecture](https://github.com/jctrinkle/ArmTypeRobots/blob/main/Presentation1.pptx)
+<br>
+[Link](http://hades.mech.northwestern.edu/images/2/25/MR-v2.pdf).
+
+
 <h2> CSE 398/498: Arm-Type Robots (15543/15544, Remote)  Spring 2021 </h2>
 
 <b>Instructor: </b>  Jeff Trinkle <br>
