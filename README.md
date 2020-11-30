@@ -1,3 +1,5 @@
+[a relative link](other_file.md)
+
 <h2>Slides</h2>
 <br>
 : [Mockup Lecture](https://github.com/jctrinkle/ArmTypeRobots/blob/main/Presentation1.pptx)
